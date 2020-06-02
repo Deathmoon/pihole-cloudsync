@@ -44,7 +44,7 @@ custom_list='custom.list'
 ###########################################################################
 # FOR SHARED HOSTS MODE ONLY
 # RE-INITIALIZE WITH --initpush OR --initpull AFTER ENABLING THIS MODE
-enable_hosts=off
+enable_hosts=on
 local_hosts='/etc/hosts'
 shared_hosts='sharedhosts.txt'
 ###########################################################################
