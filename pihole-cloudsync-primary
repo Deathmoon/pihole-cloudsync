@@ -33,7 +33,7 @@ update='April 2, 2020'
 pihole_version=4
 personal_git_dir='/usr/local/bin/my-pihole-lists'
 # change pihole_dir as pihole is running in Docker
-pihole_dir='/etc-pihole/'
+pihole_dir='/home/ragnar/etc-pihole/'
 ad_list='adlists.list'
 black_list='black.list'
 blacklist_list='blacklist.txt'
