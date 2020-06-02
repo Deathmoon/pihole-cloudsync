@@ -30,7 +30,7 @@ update='April 2, 2020'
 # Project Home: https://github.com/stevejenkins/pihole-cloudsync
 ###########################################################################
 # CONSTANTS
-pihole_version=4
+pihole_version=5
 personal_git_dir='/usr/local/bin/my-pihole-lists'
 # change pihole_dir as pihole is running in Docker
 pihole_dir='/etc/pihole'
